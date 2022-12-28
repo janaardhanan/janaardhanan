@@ -1,5 +1,6 @@
 
 ## Hi, I am Janaardhanan A
+>[My LinkedIn](https://www.linkedin.com/in/janaardhanan-a-3779301b5)
 
 ### Working as
 >Robotics and Controls engineer in Bangalore
