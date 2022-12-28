@@ -1,9 +1,10 @@
-##Hi, I am Janaardhanan A
+###Hi, I am Janaardhanan A
+
 ###Working as
-Robotics and Controls engineer in Bangalore
+>Robotics and Controls engineer in Bangalore
 
 ###Working on
-Development and deployment of an AMR using ROS
+>Development and deployment of an AMR using ROS
 
 ###Know and Learning
-ROS, C++, Python, KUKA and other robot programming and PLC Programming.
+>ROS, C++, Python, KUKA and other robot programming and PLC Programming.
